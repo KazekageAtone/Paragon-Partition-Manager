@@ -1,0 +1,30 @@
+============================================================
+  GITHUB REPOSITORY — DESCRIPTION & TOPICS
+============================================================
+
+DESCRIPTION:
+------------------------------------------------------------
+Paragon Partition Manager — advanced partition operations and NTFS resize without data loss. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
+
+============================================================
+
+TOPICS / TAGS:
+------------------------------------------------------------
+data-tools
+disk-management
+disk-tools
+ntfs-resize
+paragon
+paragon-partition-2026
+paragon-partition-download
+paragon-partition-manager
+paragon-partition-manager-2026
+paragon-partition-manager-download
+partition-operations
+windows-tools-2026
+
+============================================================
+
+SEO KEYWORDS:
+------------------------------------------------------------
+paragon partition manager, paragon partition manager download, paragon partition manager 2026, paragon partition manager, paragon partition download, paragon partition 2026, ntfs resize, partition operations, free software 2026, pc software download
