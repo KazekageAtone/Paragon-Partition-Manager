@@ -89,4 +89,4 @@ MIT — see [LICENSE.md](LICENSE.md)
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)                            
+See [CONTRIBUTING.md](CONTRIBUTING.md)                             
